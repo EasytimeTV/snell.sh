@@ -3,7 +3,7 @@
 # 请使用root用户运行
 
 ```
-wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/primovist/snell.sh/master/snell.sh
+wget --no-check-certificate -O snell.sh https://github.com/EasytimeTV/snell.sh/raw/master/snell.sh
 chmod +x snell.sh
 ./snell.sh
 ```
